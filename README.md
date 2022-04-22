@@ -125,7 +125,7 @@ alex@ubuntu:~/c/printf$ ./a.out
   - space : same as \+, but adds a space (is overwritten by \+)
   - \# : adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions
 
-### [9. Sarcasm is lost in print](./)
+### [9. Sarcasm is lost in print]
 
 - Handle the following length modifiers for non-custom conversion specifiers:
   - l : converts d, i, u, o, x, X conversions in short signed or unsigned ints
@@ -157,5 +157,4 @@ alex@ubuntu:~/c/printf$ ./a.out
 
 ### Authors
 
-- **Nahashon Kuria** -[linkedin.com/in/nahashon-kuria-m] (https://github.com/Nahashon-Kuria)
-- **Ezra Odondi** -[https://www.linkedin.com/in/ezra-odondi/] (https://github.com/TheSeekerSeeker)
+- **Nahashon Kuria** -[linkedin.com/in/nahashon-kuria-m] (https://github.com/Nahashon-Kuria)- **Ezra Odondi** -[https://www.linkedin.com/in/ezra-odondi/] (https://github.com/TheSeekerSeeker)
