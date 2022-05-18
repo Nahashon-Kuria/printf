@@ -157,4 +157,4 @@ alex@ubuntu:~/c/printf$ ./a.out
 
 ### Authors
 
-- **Nahashon Kuria** -[linkedin.com/in/nahashon-kuria-m] (https://github.com/Nahashon-Kuria)- **Ezra Odondi** -[https://www.linkedin.com/in/ezra-odondi/] (https://github.com/TheSeekerSeeker)
+- **Nahashon Kuria** -[https:www.linkedin.com/in/nahashon-kuria-m] (https://github.com/Nahashon-Kuria)- **Ezra Odondi** -[https://www.linkedin.com/in/ezra-odondi/] (https://github.com/TheSeekerSeeker)
